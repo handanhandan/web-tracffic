@@ -9,6 +9,7 @@
         <module name="frontend" />
         <module name="spark-preparse-etl" />
         <module name="trackerlogServer" />
+        <module name="weblog-parser" />
         <module name="weblog-preparser" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="frontend" target="1.5" />
       <module name="spark-preparse-etl" target="1.8" />
       <module name="trackerlogServer" target="1.5" />
+      <module name="weblog-parser" target="1.8" />
       <module name="weblog-preparser" target="1.5" />
     </bytecodeTargetLevel>
   </component>
