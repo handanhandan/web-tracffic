@@ -12,6 +12,7 @@
         <module>weblog-preparser</module>
         <module>spark-preparse-etl</module>
         <module>weblog-parser</module>
+        <module>IPLocation-parser</module>
     </modules>
 
 
